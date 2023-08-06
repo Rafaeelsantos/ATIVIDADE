@@ -22,9 +22,22 @@ O usuário irá inserir um valor que será multiplicado por dois.
 O usuário vai escrever seu nome e aparecerá uma mensagem de "Seja bem-vindo(a) + o nome do usuário"
   
 - Nota:
+Realiza uma operação matemática que vai calcular a média das notas dos valores inseridos.
 
 - Operação Matemática:
+Realiza uma operação matemática que irá calcular o primeiro valor mais o ultimo valor, idependete dos calculos que ocorreu anteriomente.
 
 - Viagem:
+Realiza um calculo da conversão dos dias para horas.
 
-- Vizinho: 
+- Vizinho:
+Irá identificar o vizinho anterior e sucessor do número inserido.
+#
+
+### LINGUAGENS
+
+- HTML
+- JavaScript
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" aling = "center" alt = "Javascript" height = "40" width = "40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" aling = "center" alt = "html" height = "40" width = "40" />
