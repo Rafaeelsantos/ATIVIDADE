@@ -1,4 +1,4 @@
-## ATIVIDADES (Lógica de Programação ⚙💭)
+## CAPITULO 1 (Lógica de Programação ⚙💭)
 
 - Alerta e Console:
 Mostra as diferenças entre o alert e console.
